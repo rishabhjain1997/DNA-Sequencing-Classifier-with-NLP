@@ -1,2 +1,2 @@
 # DNA-Sequencing-Classifier-with-NLP
-In this notebook, we will apply a classification model that predicts the gene class (or gene family) based on the DNA sequence
+This notebook predicts the gene class/gene family for a given DNA sequence by generating a classification model.
